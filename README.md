@@ -1,2 +1,11 @@
 # mobius-docker-compose-MacOS
-Mobius를 이용하는 개발자를 위한 docker-compose
+
+1. run setup.sh 
+```sh
+./setup.sh
+```
+
+2. run docker-compose command
+```
+docker compose up
+```
