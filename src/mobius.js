@@ -25,7 +25,7 @@ global.usecsebase           = 'Mobius';
 global.usecseid             = '/Mobius2';
 global.usecsebaseport       = csebaseport;
 
-global.usedbhost            = 'mysql';
+global.usedbhost            = 'db';
 global.usedbpass            = dbpass;
 
 
