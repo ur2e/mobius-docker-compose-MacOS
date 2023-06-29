@@ -1,11 +1,16 @@
 # mobius-docker-compose-MacOS
 
-1. run setup.sh 
+1. (Optional) edit the password of .env
+```
+MY_PASSWORD={your password}
+```
+
+2. run setup.sh 
 ```sh
 ./setup.sh
 ```
 
-2. run docker-compose command
+3. run docker-compose command
 ```
 docker compose up
 ```
