@@ -1,5 +1,12 @@
 # mobius-docker-compose-MacOS
 
+
+## Prerequisite
+* `docker`
+* `node`
+* `npm`
+
+## Usage
 1. (Optional) edit the password of .env
 ```
 MY_PASSWORD={your password}
